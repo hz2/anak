@@ -1,0 +1,155 @@
+html,
+body,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+figure {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    line-height: 1.5em;
+    font-family: sans-serif;
+}
+
+input,
+textarea {
+    font-family: sans-serif;
+}
+
+pre,
+code,
+pre div,
+pre span {
+    font-family: monospace
+}
+
+body {
+    color: #666;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    line-height: 1.2em;
+    margin: .8em auto;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-size: 1.1em;
+}
+
+
+ul {
+    margin: 10px 0;
+    padding-left: 40px;
+}
+
+
+a {
+    color: #222;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #777;
+    text-decoration: underline;
+}
+
+
+::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 2px #0002;
+    background-color: #9993;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #9995;
+    box-shadow: inset 0 0 2px #fff5;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #999B;
+    border-radius: 2px;
+}
