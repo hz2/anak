@@ -1,6 +1,6 @@
 
 
-A **classless** CSS file, and it is *Anarchism*, so i named it `Anak`;
+A **classless** CSS file, `Anak`;
 
 
 💡 find the [classfull](https://github.com/hz2/pub.css) one.
